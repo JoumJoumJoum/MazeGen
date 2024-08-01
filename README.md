@@ -1,0 +1,2 @@
+# MazeGen
+Tiny first project
